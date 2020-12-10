@@ -10,6 +10,6 @@ cyberedu.ro
     3. Import glob
     4. print(glob.glob("/home/ecsc/*")) >> ['/home/ecsc/app.py', '/home/ecsc/flag.txt']
     5. print(open('flag.txt', 'r').read()) >> ECSC{672**************************}
- * broken-login
+* broken-login
   * URL: https://app.cyberedu.ro/challenges/62bee6e0-356c-11eb-a033-199a06b529d6/
   * Solution
