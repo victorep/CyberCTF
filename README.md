@@ -13,4 +13,6 @@ cyberedu.ro
 * broken-login
   * URL: https://app.cyberedu.ro/challenges/62bee6e0-356c-11eb-a033-199a06b529d6/
   * Solution
-   * FIND: username is ASCII converted to hex
+   * username is ASCII converted to hex
+   * password is hashed with SHA512
+   * attribute name is name in form but username in auth, change that to name and you get invalid user
