@@ -13,3 +13,4 @@ cyberedu.ro
 * broken-login
   * URL: https://app.cyberedu.ro/challenges/62bee6e0-356c-11eb-a033-199a06b529d6/
   * Solution
+   * FIND: username is ASCII converted to hex
